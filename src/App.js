@@ -1,10 +1,10 @@
 import './App.css';
-import HookCounter5 from './components/HookCounter5';
+import DataFetching from './components/DataFetching';
 
 function App() {
   return (
     <div className="App">
-      <HookCounter5 />
+      <DataFetching />
     </div>
   );
 }
